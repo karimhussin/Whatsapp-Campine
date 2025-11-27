@@ -1,0 +1,5 @@
+{
+  "name": "Bulking Message",
+  "description": "A powerful WhatsApp message composer and bulk sender helper. Draft messages and send them to multiple contacts efficiently.",
+  "requestFramePermissions": []
+}
